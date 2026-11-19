@@ -26,6 +26,6 @@ I combine domain expertise in geology with machine learning and data analysis to
 
 #### 📫 Connect with Me
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Telegram](https://shields.io)](https://t.me)
-[![LeetCode](https://shields.io)](https://leetcode.com)
+* **LinkedIn:** [linkedin.com/in/nataliya-kuzmina](https://linkedin.com)
+* **Telegram:** [@Run4Joy](https://t.me)
+* **LeetCode:** [://leetcode.com](https://://leetcode.com/)
